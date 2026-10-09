@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.png" alt="KinoSmotry — фильмы и сериалы HDrezka на Android, Android TV, iPhone и Mac" width="100%">
+  <img src="banner.png" alt="KinoSmotry — фильмы и сериалы HDrezka на Android, Android TV, iPhone и Mac" width="100%">
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/faraonelife/kinoSmotry-releases?style=for-the-badge&color=FF8A3D&labelColor=14110F&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F" alt="Последняя версия"></a>
-  <a href="../../releases"><img src="https://img.shields.io/github/downloads/faraonelife/kinoSmotry-releases/total?style=for-the-badge&color=26201C&labelColor=14110F&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" alt="Скачивания"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8E%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E-FF8A3D?style=for-the-badge&labelColor=14110F" alt="Скачать последнюю версию"></a>
   <img src="https://img.shields.io/badge/Android%20%C2%B7%20TV%20%C2%B7%20iOS%20%C2%B7%20macOS-26201C?style=for-the-badge&labelColor=14110F" alt="Платформы">
+  <img src="https://img.shields.io/badge/RU%20%C2%B7%20UZ%20%C2%B7%20EN-26201C?style=for-the-badge&labelColor=14110F" alt="Языки">
 </p>
 
 <h3 align="center">
@@ -19,10 +19,10 @@
 телевизоре и ноутбуке, с общим аккаунтом, закладками и историей.
 
 <p align="center">
-  <img src="assets/showcase.png" alt="Экраны приложения" width="100%">
+  <img src="showcase.png" alt="Экраны приложения" width="100%">
 </p>
 
-<p align="center"><img src="assets/h-features.png" alt="Всё для кино" width="100%"></p>
+<p align="center"><img src="h-features.png" alt="Всё для кино" width="100%"></p>
 
 | | |
 |---|---|
@@ -36,7 +36,7 @@
 | ⭐ **Рейтинги** | IMDb, Кинопоиск или HDrezka — какой удобнее |
 | 📥 **Офлайн** | Скачайте серию в дорогу и смотрите без интернета *(Android)* |
 
-<p align="center"><img src="assets/h-player.png" alt="Плеер" width="100%"></p>
+<p align="center"><img src="h-player.png" alt="Плеер" width="100%"></p>
 
 - 🎙 **Озвучки** — переключение между студиями на лету, с того же места
 - 📺 **Качество** — выбор вручную или «максимальное» по умолчанию
@@ -55,7 +55,7 @@
 - **Режим ТВ:** крупный интерфейс под пульт, навигация стрелками
 - **Своё зеркало:** если основной адрес сайта недоступен, укажите рабочее зеркало в настройках
 
-<p align="center"><img src="assets/h-install.png" alt="Установка" width="100%"></p>
+<p align="center"><img src="h-install.png" alt="Установка" width="100%"></p>
 
 Все файлы — на странице **[Releases](../../releases/latest)**.
 
@@ -121,4 +121,3 @@ KinoSmotry — неофициальный клиент. Приложение н�
 страницы сайта HDrezka в удобном виде, как браузер. Все права на контент принадлежат правообладателям.
 Приложение не связано с администрацией HDrezka.
 </sub>
-
