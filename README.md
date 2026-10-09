@@ -49,6 +49,10 @@
 
 ## 🎨 Под себя
 
+<p align="center">
+  <img src="gallery-style.png" alt="Подборки и настройки оформления" width="100%">
+</p>
+
 - **Темы:** светлая, тёмная или как в системе
 - **5 палитр:** Ember · Peach · Rose · Vanilla · Pistachio
 - **3 языка:** Русский · Oʻzbekcha · English — меняются мгновенно, без перезапуска
